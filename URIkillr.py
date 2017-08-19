@@ -1,5 +1,5 @@
 #!usr/bin/python
-#URIBrute Version 1.0 can crack into a Web Database 100% without interruption By Web Application Firewall !
+#URIkillr Version 1.0 can crack into a Web Database 100% without interruption By Web Application Firewall !
 #This program is for educational purposes only.
 #Don't attack people facebook accounts it's illegal ! 
 #If you want to crack into someone's account, you must have the permission of the user. 
@@ -14,7 +14,7 @@ import cookielib
   
 GHT = '''
         +=======================================+
-        |..........Facebook Cracker v 2.........|
+        |..........URI Killr v 1.0..............|
         +---------------------------------------+
         |#Author: RadioacTVT                    |
         |#Date: 30/07/2017                      |
@@ -22,7 +22,7 @@ GHT = '''
         |#I take no responsibilities for the    |
         |use of this program.                   |
         +=======================================+
-        |............URI Brute v1.0.............|
+        |............URI Killr v1.0.............|
         +---------------------------------------+
 '''
 
